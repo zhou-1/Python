@@ -17,8 +17,8 @@ a.append() #新增一个元素
 del a[] #删除一个元素   
 
 # Tuple 元祖  
-()    
-* 最后一个元素后面加一个',' 用在单个元素     
+()    
+*最后一个元素后面加一个',' 用在单个元素     
 
 
 Tuples are immutable, lists are mutable. 元组是不可变的， 而列表是可变的。       
