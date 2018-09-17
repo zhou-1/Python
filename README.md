@@ -1,2 +1,2 @@
-# wheat_Python  
+# Python  
 All about Python  
