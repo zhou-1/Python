@@ -13,4 +13,7 @@ conda install python=3.5
 conda install -c cogsci pygame     
 https://stackoverflow.com/questions/19636480/installation-of-pygame-with-anaconda    
 
+# Project Interpreters   
+file-setting-project:xxx
+Use conda environment, create a new folder for location, conda executable: C:xxx\Anaconda3\Scripts\conda.exe, change python version.       
 
