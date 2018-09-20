@@ -9,7 +9,10 @@ step 4. control it
 with keyboard keys. Need to consider about not moving outside of screen.   
 https://www.cnblogs.com/wuzhanpeng/p/4264267.html     
 
-step 5. 
+step 5. optimize main loop    
+# 因为人眼几乎不能分辨出70fps以上的画面，那我们也就没有必要把资源花在无休止地提高刷新率上了     
+step 6. pygame sprite   
+
 
 https://www.cnblogs.com/wuzhanpeng/p/4271312.html    
 
