@@ -34,6 +34,11 @@ step 10. 华丽的坠毁
 https://www.cnblogs.com/wuzhanpeng/p/4310450.html    
 
 step 11. Plane player destroy detection   
-
-
+pygame.sprite.spritecollide()——检测sprite与group之间的碰撞    
+Step 12. create animation for plane crash    
+当然玩家被击中了也是不可能凭空消失的，我们将以前在主循环中制造玩家飞机动画的代码更新一下    
+如果玩家没有被击中，则按以前普通的玩家图片制造动画；若玩家被击中，则按每15tick换一次图片的频率制造爆炸动画，当图片索引增加至上限时（爆炸动画显示完成），跳出主循环，即结束游戏    
+step 13. finish the game   
+再写一段捕捉事件的代码   
+跳出主循环后，我们重写绘制一个“gameover”的背景，用户通过右上角红叉结束游戏    
 https://www.cnblogs.com/wuzhanpeng/p/4310312.html   
