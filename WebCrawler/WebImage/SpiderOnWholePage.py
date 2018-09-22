@@ -34,3 +34,5 @@ def getImg(html):
 
 html = getHtml("")  # http://tieba.baidu.com/p/2460150866 淘宝的：html = getHtml(r"http://www.taobao.com/")
 getImg(html)
+
+# https://blog.csdn.net/Ben_Ben_Niao/article/details/40677869  
