@@ -21,3 +21,4 @@ html = getHtml("http://pic.yxdown.com/list/0_0_1.html")
 
 print getImg(html)
 
+https://blog.csdn.net/Cloudox_/article/details/53465923  
